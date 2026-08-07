@@ -1,0 +1,11 @@
+lender,from_rate,is_nca_cap_fallback,max_amount,max_term_months,credit_life,notes,source_url,date_published
+Nedbank,10.25,FALSE,400000,84,optional,"matches prime rate; Greenbacks rewards on repayments",https://moneytoday.co.za/compare/personal-loans/nedbank-loans,2026-05-16
+African Bank,12.00,FALSE,350000,72,mandatory,"marketed '12% Loan' tier is qualification-dependent",https://moneytoday.co.za/compare/personal-loans/african-bank-loans,2026-05-16
+Capitec,12.25,FALSE,500000,84,mandatory,"tightening credit appetite in 2026",https://moneytoday.co.za/compare/personal-loans/capitec-loans,2026-05-16
+Absa,13.75,FALSE,350000,84,mandatory,"longest term option; Express/Instant short-term products also available",https://moneytoday.co.za/compare/personal-loans/absa-loans,2026-05-16
+Woolworths Financial Services,20.25,FALSE,120000,60,optional,"50% Absa-owned; salaried customer focus",https://moneytoday.co.za/compare/personal-loans/woolworths-loans,2026-05-16
+FNB,28.00,TRUE,450000,72,mandatory,"no published 'from' rate, fully personalised; NCA cap used as worst-case placeholder; highest max loan amount",https://moneytoday.co.za/compare/personal-loans/fnb-loans,2026-05-16
+Standard Bank,28.00,TRUE,300000,72,mandatory,"no published 'from' rate, fully personalised; NCA cap used as worst-case placeholder",https://moneytoday.co.za/compare/personal-loans/standard-bank-loans,2026-05-16
+Bayport,28.00,TRUE,250000,84,mandatory,"no published 'from' rate; NCA cap used as worst-case placeholder; typical real-world APR ~28-35%",https://moneytoday.co.za/compare/personal-loans/bayport-loans,2026-05-16
+Mafori Finance,28.00,TRUE,30000,12,,"rate not published; NCA cap used as worst-case placeholder; verify NCR registration before use",https://moneytoday.co.za/compare/personal-loans/mafori-finance,2026-05-16
+Barko,60.00,TRUE,8000,1,,"short-term cash loan, not a standard personal loan; falls under separate NCA short-term cap (5%/month = ~60%/year), not the 28% unsecured-loan cap",https://moneytoday.co.za/compare/personal-loans/barko-loans,2026-05-16

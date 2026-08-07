@@ -1,0 +1,11 @@
+bank,term_months,min_age,min_deposit,nominal_rate,effective_rate,source_url,date_published
+Fedgroup,60,18,1,8.65,9,https://www.ratecompare.co.za/bank/fedgroup,7/1/2026
+GoTyme Bank,36,18,1,8.58,8.93,https://www.ratecompare.co.za/bank/tymebank,7/1/2026
+GoTyme Bank,24,18,1,8.52,8.86,https://www.ratecompare.co.za/bank/tymebank,7/1/2026
+African Bank,60,18,1000000,8.47,8.81,https://www.ratecompare.co.za/bank/african-bank,7/1/2026
+GoTyme Bank,12,18,1,8.42,8.75,https://www.ratecompare.co.za/bank/tymebank,7/1/2026
+SA Retail Bonds,60,18,1,8.5,8.68,https://www.ratecompare.co.za/bank/sa-retail-bonds,7/1/2026
+Nedbank,60,18,250000,8.3,8.62,https://www.ratecompare.co.za/bank/nedbank,7/1/2026
+Capitec,60,18,1000000,8.25,8.57,https://www.ratecompare.co.za/bank/capitec,7/1/2026
+GoTyme Bank,6,18,1,8.11,8.42,https://www.ratecompare.co.za/bank/tymebank,7/1/2026
+SA Retail Bonds,36,18,1,8.25,8.42,https://www.ratecompare.co.za/bank/sa-retail-bonds,7/1/2026

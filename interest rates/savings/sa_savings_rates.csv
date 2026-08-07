@@ -1,0 +1,11 @@
+bank,product_name,access_type,min_deposit,min_rate,max_rate,source_url,date_published
+GoTyme Bank,GoTyme Bank GoalSave Bonus Rate (10-Day Notice),10 days notice,1,10,10,https://ratecompare.co.za/bank/savings/tymeBankGoalSaveNotice,7/1/2026
+Absa,Absa Tax Free Savings Account,tax-free savings,1,0.35,7.65,https://ratecompare.co.za/bank/savings/absaTaxFreeSavings,7/1/2026
+Absa,Absa Cash Invest Tracker,immediate,100000,7.3,7.5,https://ratecompare.co.za/bank/savings/absaPureSave,7/1/2026
+Standard Bank,Standard Bank MoneyMarket Select,immediate,100000,6.95,7.3,https://ratecompare.co.za/bank/savings/sbMoneyMarketSelect,7/1/2026
+FNB,FNB Money Maximiser,immediate,100000,6.9,7.25,https://ratecompare.co.za/bank/savings/fnbMoneyMaximiser,7/1/2026
+FNB,FNB Tax-free Savings,tax-free savings,300,7.2,7.2,https://ratecompare.co.za/bank/savings/fnbTaxFreeSavings,7/1/2026
+Nedbank,Nedbank Platinum Invest,notice investment,1,5.25,7,https://ratecompare.co.za/bank/savings/nedbankPlatinuminvest,7/1/2026
+Nedbank,Nedbank Tax-free Savings Account,tax-free savings,1,5.25,7,https://ratecompare.co.za/bank/savings/nedbankTax-freesavings,7/1/2026
+Nedbank,Nedbank MoneyTrader,24 hours notice,50000,6.95,6.95,https://ratecompare.co.za/bank/savings/nedbankMoneyTrader,7/1/2026
+Investec,Investec PrimeSaver Account,immediate,100000,6.7,6.8,https://ratecompare.co.za/bank/savings/investecPrime,7/1/2026

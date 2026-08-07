@@ -1,0 +1,11 @@
+bank,notice_period_days,min_age,min_deposit,nominal_rate,source_url,date_published
+Investec,90,18,100000,7.65,https://ratecompare.co.za/bank/notice/smartrateplusnoticedeposit/,7/1/2026
+Nedbank,32,18,500000,7.55,https://ratecompare.co.za/bank/notice/nedbank32daynotice/,7/1/2026
+Investec,60,18,100000,7.55,https://ratecompare.co.za/bank/notice/smartrateplusnoticedeposit/,7/1/2026
+Investec,32,18,100000,7.5,https://ratecompare.co.za/bank/notice/smartrateplusnoticedeposit/,7/1/2026
+Nedbank,32,18,250000,7.5,https://ratecompare.co.za/bank/notice/nedbank32daynotice/,7/1/2026
+Access Bank Plc,90,18,5000000,7.5,https://ratecompare.co.za/bank/notice/accessbank90daynotice/,7/1/2026
+Access Bank Plc,60,18,5000000,7.4,https://ratecompare.co.za/bank/notice/accessbank60daynotice/,7/1/2026
+Access Bank Plc,90,18,1000000,7.4,https://ratecompare.co.za/bank/notice/accessbank90daynotice/,7/1/2026
+Access Bank Plc,32,18,5000000,7.3,https://ratecompare.co.za/bank/notice/accessbank32daynotice/,7/1/2026
+Bidvest,32,18,1000000,7.3,https://ratecompare.co.za/bank/notice/bivest32daynotice/,7/1/2026

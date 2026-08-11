@@ -1,4 +1,4 @@
-Virtual Interest Bank (VIB)
+Virtual Interest Bank (VIB) - Command Line Version
 
 A Python application that helps users make informed investment and borrowing 
 decisions. For investments, it identifies options with the highest potential 

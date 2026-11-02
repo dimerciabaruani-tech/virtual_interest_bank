@@ -100,8 +100,8 @@ Projections are estimates based on published rates and are not financial advice.
 
 ## Author
 
-Dimercia K. Baruani. [Portfolio](https://dimerciabaruani-tech.github.io) &middot; [GitHub](https://github.com/dimerciabaruani-tech)
+Dimercia K. Baruani. [GitHub](https://github.com/dimerciabaruani-tech)
 
 ## License
 
-Add a license file (MIT is a common choice for portfolio projects) and name it here.
+Released under the [MIT License](LICENSE).
